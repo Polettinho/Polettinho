@@ -6,6 +6,7 @@
 - 🔭 Atualmente estou trabalhando em "Ganso Sistemas".
 - 🌱 Atualmente estou aprendendo JavaScript, C# e SQL.
 - 📫 Como entrar em contato comigo: Celular (Whatsapp) (65) 9 9297-9316 /// Celular (Ligações) (65) 9 9949-3735
+- 🔵 Email: eduardopoletto68@gmail.com
 
 
 ### Ferramentas e Tecnologias
