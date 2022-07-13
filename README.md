@@ -5,8 +5,8 @@
 
 - 🔭 Atualmente estou trabalhando em "UNICUS".
 - 🌱 Atualmente estou aprendendo JavaScript, React e Node.
-- 📫 Como entrar em contato comigo: Celular (Whatsapp) (65) 9 9297-9316 /// Celular (Ligações) (65) 9 9949-3735
-- 🔵 Email: eduardopoletto68@gmail.com
+- 📫 Como entrar em contato comigo: (65) 9 9949-3735 (WhatsApp e ligações)
+- 🔵 Email: eduardo.dev.poletto@gmail.com
 
 
 ### Ferramentas e Tecnologias
